@@ -16,3 +16,4 @@ for r=1:row
     
 end
 plot(counter);
+%this program plot a graph
